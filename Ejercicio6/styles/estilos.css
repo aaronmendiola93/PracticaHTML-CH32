@@ -1,0 +1,22 @@
+body{
+    background-color:blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+.Contenedor{
+    width: 80%;
+    margin: 5%;
+    
+}
+
+h1{
+    color: brown;
+    text-align: center;
+
+}
+
+img{
+    width: 70%;
+    height: 40%;
+    align-content: center;
+}
+
